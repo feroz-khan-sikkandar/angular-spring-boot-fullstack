@@ -9,8 +9,8 @@ export class ListTodosComponent implements OnInit {
 
   todos = [
     { id: 1, description:'learn dance'},
-    { id: 1, description:'learn kung fu'},
-    { id: 1, description:'learn swimming'}
+    { id: 2, description:'learn kung fu'},
+    { id: 3, description:'learn swimming'}
   ]
 
   constructor() { }
